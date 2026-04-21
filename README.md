@@ -24,6 +24,9 @@
 </table>
 
 ---
+와우고 출신
+한신대
+---
 
 ### 📈 GitHub Stats
 <p align="center">
