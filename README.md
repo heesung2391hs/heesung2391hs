@@ -1,4 +1,4 @@
-# 💫 Welcome to [이름/닉네임]'s Realm!
+# 💫 Welcome to 최희성's Realm!
 > **"Focusing on clean code and better user experiences."**
 
 <p align="center">
