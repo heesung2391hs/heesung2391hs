@@ -1,42 +1,40 @@
-# 💫 Welcome to 최희성's Realm!
-> **"Focusing on clean code and better user experiences."**
+# 💫 Welcome to My Space
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20World!&fontSize=70" />
-</p>
-
-## 🧑‍💻 About Me
-* 🔭 현재 **[진행 중인 프로젝트 이름]** 개발 중
-* 📚 주요 관심사: **React, TypeScript, Backend Architecture**
-* 💬 궁금한 점이 있다면 언제든 물어보세요!
-* 📧 Contact: `your-email@example.com`
+<table>
+  <tr>
+    <td align="center" width="250px">
+      <img src="https://github.com/YOUR_ID.png" width="180px" style="border-radius: 50%;" alt="Profile"/><br/><br/>
+      <img src="https://img.shields.io/badge/Status-Available-green?style=flat-square" />
+    </td>
+    <td valign="top">
+      <h2>안녕하세요, [닉네임]입니다! 👋</h2>
+      <p>
+        문제를 해결하며 성장하는 과정에서 즐거움을 느끼는 개발자입니다.<br/>
+        효율적인 코드와 깔끔한 UI/UX를 지향합니다.
+      </p>
+      <ul>
+        <li>🔭 <b>Focus:</b> React, TypeScript 기반의 프론트엔드 개발</li>
+        <li>🌱 <b>Learning:</b> 시스템 디자인과 백엔드 최적화 공부 중</li>
+        <li>💬 <b>Contact:</b> your-email@gmail.com</li>
+        <li>⚡ <b>Motto:</b> "오늘보다 조금 더 나은 내일을 만들자"</li>
+      </ul>
+      <a href="https://blog-url.com"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=velog&logoColor=white" /></a>
+      <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠 Tech Stack
-<p align="left">
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
----
-
-## 📊 My GitHub Stats
+### 📈 GitHub Stats
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true&theme=radical" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ID&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🏆 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_ID&theme=github-compact)
-
-<p align="center">
-  <a href="https://github.com/YOUR_ID">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_ID&color=blueviolet&style=flat-square&label=VISITORS" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true&theme=transparent" height="150" />
 </p>
