@@ -13,8 +13,8 @@
         효율적인 코드와 깔끔한 UI/UX를 지향합니다.
       </p>
       <ul>
-        <li>🔭 <b>Focus:</b> React, TypeScript 기반의 프론트엔드 개발</li>
-        <li>🌱 <b>Learning:</b> 시스템 디자인과 백엔드 최적화 공부 중</li>
+        <li>🔭 <b>Focus:</b> c언어 공부중</li>
+        <li>🌱 <b>Learning:</b> 파이썬 공부중</li>
         <li>💬 <b>Contact:</b> your-email@gmail.com</li>
         <li>⚡ <b>Motto:</b> "오늘보다 조금 더 나은 내일을 만들자"</li>
       </ul>
